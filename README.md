@@ -14,13 +14,6 @@ Tenho um apreço por desenvolvimento de software e entusiasta de machine learnin
 
 ---
 
-### 💡 Projetos em Destaque
-
-- 🧾 [**Gestão de Insumos com Excel e SQL Server**](https://github.com/JorgeLuis97/nome-do-repo): Automatização de planilhas com `xlwings` e `pyodbc` para preencher colunas a partir de dados do banco.
-- 🌐 [**Site Pessoal com Next.js**](https://github.com/JorgeLuis97/nome-do-repo): Projeto construído com `Next.js`, `Tailwind CSS`, deployado no Vercel com arquitetura escalável.
-
----
-
 ### 📈 GitHub Stats
 
 ![Jorge Rabelo GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeLuis97&show_icons=true&theme=tokyonight)
