@@ -103,9 +103,19 @@ Atualmente estou aprofundando meus conhecimentos em modelagem estatística e Mac
 
 ## GitHub Stats
 
-![Jorge Rabelo GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeLuis97&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JorgeLuis97&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLuis97&layout=compact&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLuis97&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
